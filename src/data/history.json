@@ -1,0 +1,18 @@
+[
+  {
+    "role": "FullStack MERN Developer",
+    "organisation": "Wathare Infotech Solutions",
+    "startDate": "March, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Developed IoT solutions for CNC machine monitoring using MQTT, resulting in a 20% improvement in data accuracy | Demonstrated a keen focus on responsive UI design with the MERN stack, ensuring best cross-platform performance and seamless user experience."
+    ]
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "AceCoder IT Solutions",
+    "startDate": "Oct, 2021",
+    "endDate": "Sept, 2022",
+    "experiences": ["Gained foundational skills in frontend development using JavaScript, HTML, and CSS, contributing to the creation of scalable and responsive web applications."]
+  }
+]
